@@ -1,14 +1,6 @@
-<h1 align=center> <strong>PROYECTO INDIVIDUAL Nº2</strong> </h1>
-<p align=center><img style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 50
-           height=50"
-        src="https://media.licdn.com/dms/image/D4D16AQFkgLIRJjy6SQ/profile-displaybackgroundimage-shrink_350_1400/0/1687728249782?e=1695254400&v=beta&t=Uhkp3KZk0aLDPW2rV1aL-k3LNBFXgUeaYGjuAhEo18k" 
-        alt="DA"><p>
-  <h2 align="center">Data Analytics</h2>
+# Proyecto Individual N° 2 - Data Analitycs
 
-# 📍  Introducción 
+# 📍 Introducción
 
 Este proyecto corresponde al segundo de la etapa de *Lab's* del programa de **Data Science** de **Henry**.
 
@@ -20,7 +12,7 @@ El análisis abarca diferentes aspectos relacionados a la conectividad a interne
 
 Se hace especial hincapié en el análisis por regiones.
 
-# 📍 Contenido del repositorio 
+# 📍 Contenido del repositorio
 
 En este repositorio se encuentran almacenadas cuatro carpetas y tres archivos:
 
@@ -63,7 +55,7 @@ De acuerdo al análisis realizado, el *objetivo general* de este proyecto se ori
 
 1. KPI: Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia.
 
-# 📍 Herramientas utilizadas 
+# 📍 Herramientas utilizadas
 
 * Python
 * Pandas
@@ -71,6 +63,6 @@ De acuerdo al análisis realizado, el *objetivo general* de este proyecto se ori
 * Seaborn
 * Power BI
 
-# 📍 Autor 
+# 📍 Autor
 
 * Sebastián Risi
