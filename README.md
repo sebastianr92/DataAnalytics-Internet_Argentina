@@ -14,7 +14,7 @@ Se hace especial hincapié en el análisis por regiones.
 
 # 📍 Contenido del repositorio
 
-En este repositorio se encuentran almacenadas cuatro carpetas y tres archivos:
+En este repositorio se encuentra:
 
 * En la carpeta **Data** se encuentran todas las bases de datos utilizadas.
 * En el archivo **EDA** se encuentra la documentación y el paso a paso del EDA.
