@@ -10,6 +10,11 @@ El análisis abarca diferentes aspectos relacionados a la conectividad a interne
 
 Se hace especial hincapié en el análisis por regiones.
 
+## 📊 Dashboard
+![Portada](image/README/Portada.png)
+![Tecnologías](image/README/Tecnologías.png)
+![Velocidad](image/README/Velocidad.png)
+
 # 📍 Contenido del repositorio
 
 En este repositorio se encuentran almacenadas cuatro carpetas y tres archivos:
@@ -47,20 +52,6 @@ En este repositorio se encuentran almacenadas cuatro carpetas y tres archivos:
 
 De acuerdo al análisis realizado, el *objetivo general* de este proyecto se orienta a **la expansión y mejora de la cobertura de red  en Argentina**, estando la expansión directamente relacionada al aumento de accesos, y la mejora a la garantía de una buena calidad en los accesos. Por lo tanto, el énfasis está en el *alcance* y la *calidad* de la red.
 
-![Portada](image/README/Portada.png)
-
-![1703267946323](image/README/1703267946323.png)
-
-## 📶  KPI´s
-
-1. KPI: Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia.
-2. KPI: Aumentar un 20% la velocidad de bajada para el año 2024 en la Patagonia.
-3. KPI: Aumentar un 20% la velocidad de bajada para el año 2024 en Cuyo.
-4. KPI: Aumentar un 20% la velocidad de bajada para el año 2024 en el Noroeste.
-
-## 📊 Dashboard
-
-![1703267851889](image/README/1703267851889.png)
 
 # 📍 Herramientas utilizadas
 
