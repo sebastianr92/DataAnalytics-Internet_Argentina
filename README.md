@@ -2,8 +2,6 @@
 
 # 📍 Introducción
 
-Este proyecto corresponde a la etapa *Lab's* del programa de **Data Science** de **Henry**.
-
 Este  proyecto aborda  las principales caracteristicas de acceso, infraestructura y calidad de la  conexión  de  internet  fija en  relación  a  las  características  sociodemográficas  de  Argentina  entre  los  años 2014 y 2022.
 
 Para tal efecto, se utiliza como data principal la proporcionada por [ENACOM](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/).
@@ -49,7 +47,7 @@ En este repositorio se encuentran almacenadas cuatro carpetas y tres archivos:
 
 De acuerdo al análisis realizado, el *objetivo general* de este proyecto se orienta a **la expansión y mejora de la cobertura de red  en Argentina**, estando la expansión directamente relacionada al aumento de accesos, y la mejora a la garantía de una buena calidad en los accesos. Por lo tanto, el énfasis está en el *alcance* y la *calidad* de la red.
 
-![1703267889327](image/README/1703267889327.png)
+![Portada](image/README/Portada.png)
 
 ![1703267946323](image/README/1703267946323.png)
 
